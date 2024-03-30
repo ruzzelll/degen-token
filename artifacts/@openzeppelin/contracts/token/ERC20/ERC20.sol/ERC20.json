@@ -1,4 +1,4 @@
-json{
+{
   "_format": "hh-sol-artifact-1",
   "contractName": "ERC20",
   "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
