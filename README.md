@@ -38,15 +38,6 @@ To get started with the Degen Gaming ERC20 Token Project, follow these steps:
 
 5. **Integrate with Degen Gaming**: Integrate the deployed ERC20 token with the Degen Gaming platform to enable token functionalities for players.
 
-## Contributing
-
-Contributions to the Degen Gaming ERC20 Token Project are welcome! Whether you want to propose new features, report bugs, or submit pull requests, please follow our [contribution guidelines](CONTRIBUTING.md) to get started.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 For more information about the Degen Gaming platform and updates on the ERC20 token project, visit our website or join our community channels.
 
